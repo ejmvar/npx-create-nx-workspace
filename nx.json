@@ -1,0 +1,18 @@
+{
+  "npmScope": "model-npx-create-nx-workspace",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "npx-create-nx-workspace": {
+      "tags": []
+    },
+    "npx-create-nx-workspace-e2e": {
+      "tags": []
+    }
+  }
+}

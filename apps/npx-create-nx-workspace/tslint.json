@@ -1,0 +1,17 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [
+      true,
+      "attribute",
+      "model-npx-create-nx-workspace",
+      "camelCase"
+    ],
+    "component-selector": [
+      true,
+      "element",
+      "model-npx-create-nx-workspace",
+      "kebab-case"
+    ]
+  }
+}
